@@ -4,6 +4,7 @@
      <HostEntry>
           <User>ghqqaisfn@spacehotline.com</User>
           <HostName>torguard</HostName>
+          <HostAddress>1.0.0.0</HostAddress>
           <HostAddress>93.177.73.66:22</HostAddress>
      </HostEntry>
 </ServerList>
