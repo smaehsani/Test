@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AnyConnectProfile xmlns="http://schemas.xmlsoap.org/encoding/">
-<ServerList>
-     <HostEntry>
-          <User>ghqqaisfn@spacehotline.com</User>
-          <HostName>torguard</HostName>
-          <HostAddress>1.0.0.0</HostAddress>
-          <HostAddress>93.177.73.66:22</HostAddress>
-     </HostEntry>
-</ServerList>
-</AnyConnectProfile>
+<AnyConnectPreferences>
+<DefaultUser>ghqqaisfn@spacehotline.com</DefaultUser>
+<DefaultSecondUser></DefaultSecondUser>
+<ClientCertificateThumbprint></ClientCertificateThumbprint>
+<MultipleClientCertificateThumbprints></MultipleClientCertificateThumbprints>
+<ServerCertificateThumbprint></ServerCertificateThumbprint>
+<DefaultHostName>ger.torguard.org:22</DefaultHostName>
+<DefaultHostAddress>ger.torguard.org:22</DefaultHostAddress>
+<DefaultGroup></DefaultGroup>
+<ProxyHost></ProxyHost>
+<ProxyPort></ProxyPort>
+<SDITokenType>none</SDITokenType>
+<ControllablePreferences>
+<BlockUntrustedServers>false</BlockUntrustedServers></ControllablePreferences>
+</AnyConnectPreferences>
