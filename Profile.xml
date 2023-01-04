@@ -6,8 +6,8 @@
 <HostAddress>1.0.0.0</HostAddress>
 </HostEntry>
 <HostEntry>
-<HostName>2</HostName>
-<HostAddress>us-ny.torguard.org:22</HostAddress>
+<HostName>zoom.us</HostName>
+<HostAddress>104.254.90.218:1600</HostAddress>
 </HostEntry>
 </ServerList>
 </AnyConnectProfile>
