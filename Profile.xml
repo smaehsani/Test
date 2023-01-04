@@ -6,8 +6,9 @@
 <HostAddress>1.0.0.0</HostAddress>
 </HostEntry>
 <HostEntry>
-<HostName>zoom.us</HostName>
+<HostName>SDP Tor</HostName>
 <HostAddress>104.254.90.218:1600</HostAddress>
+<SNI>zoom.us</SNI>
 </HostEntry>
 </ServerList>
 </AnyConnectProfile>
